@@ -1,0 +1,1322 @@
+{
+	"Atomic":
+	{
+		"title": "",
+		"titlecolor":
+		{
+			"r": 0.53333300352096558,
+			"g": 0.91372597217559814,
+			"b": 1,
+			"a": 1
+		},
+		"tabs": [
+			{
+				"id": "BB98F7704326AF8A08B165AE63F9B8B5",
+				"buttoninfo":
+				{
+					"id": "BB98F7704326AF8A08B165AE63F9B8B5",
+					"title": "WELCOME",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator4",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Center",
+					"text": "",
+					"textjustification": "Center",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/LeftPanel_513w592h.png?raw=true"
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/MiddlePanel_513w592h.png?raw=true"
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/RightPanel_513w592h.png?raw=true"
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "D49B87974DDBA6BA05B500A405C5D67B",
+				"buttoninfo":
+				{
+					"id": "D49B87974DDBA6BA05B500A405C5D67B",
+					"title": "Server Settings",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator0",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/server_rates.png?raw=true"
+				},
+				"panel2":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "57AF63534BB4454B5FE6C0AD854AC2BF",
+				"buttoninfo":
+				{
+					"id": "57AF63534BB4454B5FE6C0AD854AC2BF",
+					"title": "Server Rules",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator0",
+				"panel1":
+				{
+					"title": "",
+					"titlejustification": "Left",
+					"text": "",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/server_rules.png?raw=true"
+				},
+				"panel2":
+				{
+					"title": "PANEL 2",
+					"titlejustification": "Left",
+					"text": "PANEL 2 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			}
+		],
+		"links": [
+			{
+				"id": "CB8BD5034740A3858A2075B868FBE909",
+				"url": "https://bit.ly/ArasArk",
+				"buttoninfo":
+				{
+					"id": "CB8BD5034740A3858A2075B868FBE909",
+					"title": "Discord",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "F88652614CD76097A504DA89D41E671C",
+				"url": "https://www.patreon.com/arasark",
+				"buttoninfo":
+				{
+					"id": "F88652614CD76097A504DA89D41E671C",
+					"title": "Patreon",
+					"position": "NewEnumerator0",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "50DC233A4A81A66E44943789937FF60C",
+				"url": "https://www.arasark.site/shop",
+				"buttoninfo":
+				{
+					"id": "50DC233A4A81A66E44943789937FF60C",
+					"title": "Token Shop",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 1.0000008344650269,
+							"g": 0.82278650999069214,
+							"b": 0.074213728308677673,
+							"a": 0.20000000298023224
+						},
+						"foregroundcolor":
+						{
+							"r": 1.0000008344650269,
+							"g": 1.0000008344650269,
+							"b": 1.0000008344650269,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1.0000008344650269,
+							"g": 0.82278650999069214,
+							"b": 0.074213728308677673,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.84687399864196777,
+							"g": 0.11193263530731201,
+							"b": 0.11953864246606827,
+							"a": 0.40000000596046448
+						},
+						"foregroundcolor":
+						{
+							"r": 1.0000008344650269,
+							"g": 1.0000008344650269,
+							"b": 1.0000008344650269,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.84687399864196777,
+							"g": 0.11193263530731201,
+							"b": 0.11953864246606827,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.84687399864196777,
+							"g": 0.11193263530731201,
+							"b": 0.11953864246606827,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1.0000008344650269,
+							"g": 1.0000008344650269,
+							"b": 1.0000008344650269,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0.84687399864196777,
+							"g": 0.11193263530731201,
+							"b": 0.11953864246606827,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			},
+			{
+				"id": "B8C359B74343CFCA78EFC8BBE7CF03A4",
+				"url": "https://www.dododex.com/",
+				"buttoninfo":
+				{
+					"id": "B8C359B74343CFCA78EFC8BBE7CF03A4",
+					"title": "Dododex",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				}
+			}
+		],
+		"linkbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.84687399864196777,
+					"g": 0.11193263530731201,
+					"b": 0.11953864246606827,
+					"a": 0.40000000596046448
+				},
+				"foregroundcolor":
+				{
+					"r": 1.0000008344650269,
+					"g": 1.0000008344650269,
+					"b": 1.0000008344650269,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0.84687399864196777,
+					"g": 0.11193263530731201,
+					"b": 0.11953864246606827,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.84687399864196777,
+					"g": 0.11193263530731201,
+					"b": 0.11953864246606827,
+					"a": 0.40000000596046448
+				},
+				"foregroundcolor":
+				{
+					"r": 1.0000008344650269,
+					"g": 1.0000008344650269,
+					"b": 1.0000008344650269,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0.84687399864196777,
+					"g": 0.11193263530731201,
+					"b": 0.11953864246606827,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"tabbuttondefaultsettings":
+		{
+			"id": "",
+			"title": "",
+			"position": "NewEnumerator0",
+			"normal":
+			{
+				"backgroundcolor":
+				{
+					"r": 0.00060700002359226346,
+					"g": 0.028426000848412514,
+					"b": 0.07618500292301178,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"hovered":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0.26274499297142029,
+					"b": 0.40784299373626709,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.23529399931430817,
+					"b": 0.27058801054954529,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"pressed":
+			{
+				"backgroundcolor":
+				{
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0.21568599343299866,
+					"g": 0.80000001192092896,
+					"b": 1,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0
+			},
+			"selected":
+			{
+				"backgroundcolor":
+				{
+					"r": 1,
+					"g": 1,
+					"b": 1,
+					"a": 1
+				},
+				"foregroundcolor":
+				{
+					"r": 0,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"bordercolor":
+				{
+					"r": 1,
+					"g": 0,
+					"b": 0,
+					"a": 1
+				},
+				"borderthickness": 0.10000000000000001,
+				"cornerradius": 0.5
+			}
+		},
+		"paneldefaultbackgroundcolor":
+		{
+			"r": 0,
+			"g": 0.0078429998829960823,
+			"b": 0.019608000293374062,
+			"a": 0.7019609808921814
+		},
+		"iconsettings":
+		{
+			"showicon": true,
+			"hideafterduration": 60,
+			"usecustomicon": true,
+			"customiconurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/corner_logo.png?raw=true",
+			"usecustomtext": false,
+			"customtext": "",
+			"customtextcolor":
+			{
+				"r": 1,
+				"g": 1,
+				"b": 1,
+				"a": 1
+			},
+			"openbuttonkey": "F1",
+			"position": "NewEnumerator3",
+			"iconmarginx": 14.749264717102051,
+			"iconmarginy": 14.749264717102051,
+			"iconopacity": 1,
+			"customtextopacity": 0,
+			"customtexthorizontalalignment": "HAlign_Left",
+			"customtextverticalalignment": "VAlign_Center",
+			"customtextfontsize": 0
+		},
+		"showsettings":
+		{
+			"onplayerlogon": true,
+			"fornewplayersonly": false,
+			"onnextplayerlogonversion": 8
+		},
+		"miscsettings":
+		{
+			"isplayerslistenabled": true,
+			"istribeslistenabled": true,
+			"isdinoscannerenabled": false
+		}
+	}
+}
