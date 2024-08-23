@@ -138,7 +138,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/LeftPanel_513w592h.png?raw=true"
+					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/LeftPanel_513w592h.png"
 				},
 				"panel2":
 				{
@@ -154,7 +154,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/MiddlePanel_513w592h.png?raw=true"
+					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/MiddlePanel_513w592h.png"
 				},
 				"panel3":
 				{
@@ -170,7 +170,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/RightPanel_513w592h.png?raw=true"
+					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/RightPanel_513w592h.png"
 				},
 				"panel4":
 				{
@@ -333,7 +333,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/server_rates.png?raw=true"
+					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/server_rates.png"
 				},
 				"panel2":
 				{
@@ -528,7 +528,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/server_rules.png?raw=true"
+					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/server_rules.png"
 				},
 				"panel2":
 				{
@@ -831,7 +831,7 @@
 				"buttoninfo":
 				{
 					"id": "50DC233A4A81A66E44943789937FF60C",
-					"title": "Token Shop",
+					"title": "Reward Shop",
 					"position": "NewEnumerator1",
 					"normal":
 					{
@@ -1286,7 +1286,7 @@
 			"showicon": true,
 			"hideafterduration": 60,
 			"usecustomicon": true,
-			"customiconurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/corner_logo.png?raw=true",
+			"customiconurl": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
 			"usecustomtext": false,
 			"customtext": "",
 			"customtextcolor":
