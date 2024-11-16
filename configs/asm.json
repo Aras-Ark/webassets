@@ -1,77 +1,22 @@
-
-				},
-				"panel2":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/MiddlePanel_513w592h.png"
-				},
-				"panel3":
-				{
-					"title": "",
-					"titlejustification": "Left",
-					"text": "",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/RightPanel_513w592h.png"
-				},
-				"panel4":
-				{
-					"title": "PANEL 4",
-					"titlejustification": "Left",
-					"text": "PANEL 4 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				},
-				"panel5":
-				{
-					"title": "PANEL 5",
-					"titlejustification": "Left",
-					"text": "PANEL 5 - TEXT",
-					"textjustification": "Left",
-					"backgroundcolor":
-					{
-						"r": 0,
-						"g": 0.0078429998829960823,
-						"b": 0.019608000293374062,
-						"a": 0.7019609808921814
-					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
-				}
-			},
+{
+	"Atomic":
+	{
+		"title": "ATOMIC SERVER MANAGER",
+		"titlecolor":
+		{
+			"r": 0.53333300352096558,
+			"g": 0.91372597217559814,
+			"b": 1,
+			"a": 1
+		},
+		"tabs": [
 			{
-				"id": "D49B87974DDBA6BA05B500A405C5D67B",
+				"id": "8A3138914639793F2562B4828AA8504C",
 				"buttoninfo":
 				{
-					"id": "D49B87974DDBA6BA05B500A405C5D67B",
-					"title": "Server Settings",
-					"position": "NewEnumerator1",
+					"id": "8A3138914639793F2562B4828AA8504C",
+					"title": "WELCOME",
+					"position": "NewEnumerator0",
 					"normal":
 					{
 						"backgroundcolor":
@@ -181,9 +126,9 @@
 				"layout": "NewEnumerator0",
 				"panel1":
 				{
-					"title": "",
+					"title": "<TS.Roboto.15.Green>WELCOME TO ATOMIC SERVER MANAGER!</>",
 					"titlejustification": "Left",
-					"text": "",
+					"text": "Thank you for choosing <TS.Roboto.15.Green>Atomic</> Server Manager!\r\nI know you have many options when it comes to managing your server.\r\nI hope that you find this mod will help you deliver a more customized experience to you and your community.\r\n\r\n<TS.Roboto.15.Green>Atomic</> Server Manager is currently loaded with default settings. Only an admin can access the settings to change the configuration.\r\nYou can access the <TS.Roboto.15.Green>Atomic</> discord via admin access by utilizing the settings icon up top. There is a link to the Discord from there.\r\nHere is the link also... just in case: https://discord.gg/7uHFUAzFsT\r\n\r\nBe sure to check out the settings as there are many customization options available to you.\r\n\r\nIf you run into issues please let me know... this is the first version of the mod and I am actively working to bring more features to you.\r\nStay tuned!!\r\n\r\nOnce again... I appreciate you checking out <TS.Roboto.15.Green>Atomic</> and look forward to hearing from you soon.\r\n\r\n- Apoc",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -192,14 +137,14 @@
 						"b": 0.019608000293374062,
 						"a": 0.7019609808921814
 					},
-					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/server_rates.png"
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
 				},
 				"panel2":
 				{
-					"title": "",
+					"title": "PANEL 2",
 					"titlejustification": "Left",
-					"text": "",
+					"text": "PANEL 2 - TEXT",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -213,9 +158,9 @@
 				},
 				"panel3":
 				{
-					"title": "",
+					"title": "PANEL 3",
 					"titlejustification": "Left",
-					"text": "",
+					"text": "PANEL 3 - TEXT",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -261,11 +206,11 @@
 				}
 			},
 			{
-				"id": "57AF63534BB4454B5FE6C0AD854AC2BF",
+				"id": "3F7934E14BC726A30AC65D887316BF49",
 				"buttoninfo":
 				{
-					"id": "57AF63534BB4454B5FE6C0AD854AC2BF",
-					"title": "Server Rules",
+					"id": "3F7934E14BC726A30AC65D887316BF49",
+					"title": "SERVER SETTINGS",
 					"position": "NewEnumerator1",
 					"normal":
 					{
@@ -373,12 +318,12 @@
 					}
 				},
 				"panelspacing": 10,
-				"layout": "NewEnumerator0",
+				"layout": "NewEnumerator4",
 				"panel1":
 				{
-					"title": "",
+					"title": "PANEL 1",
 					"titlejustification": "Left",
-					"text": "",
+					"text": "PANEL 1 - TEXT",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -387,8 +332,203 @@
 						"b": 0.019608000293374062,
 						"a": 0.7019609808921814
 					},
-					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://aras-ark.github.io/webassets/images/asm/panels/server_rules.png"
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel2":
+				{
+					"title": "PANEL 2",
+					"titlejustification": "Left",
+					"text": "PANEL 2 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel3":
+				{
+					"title": "PANEL 3",
+					"titlejustification": "Left",
+					"text": "PANEL 3 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel4":
+				{
+					"title": "PANEL 4",
+					"titlejustification": "Left",
+					"text": "PANEL 4 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				},
+				"panel5":
+				{
+					"title": "PANEL 5",
+					"titlejustification": "Left",
+					"text": "PANEL 5 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
+				}
+			},
+			{
+				"id": "1BF80DB244169E4012F2D09533CF5BFA",
+				"buttoninfo":
+				{
+					"id": "1BF80DB244169E4012F2D09533CF5BFA",
+					"title": "RULES",
+					"position": "NewEnumerator1",
+					"normal":
+					{
+						"backgroundcolor":
+						{
+							"r": 0.00060700002359226346,
+							"g": 0.028426000848412514,
+							"b": 0.07618500292301178,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"hovered":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.015685999765992165,
+							"b": 0.043136999011039734,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0.26274499297142029,
+							"b": 0.40784299373626709,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.23529399931430817,
+							"b": 0.27058801054954529,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"pressed":
+					{
+						"backgroundcolor":
+						{
+							"r": 0,
+							"g": 0.027450999245047569,
+							"b": 0.074510000646114349,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0.21568599343299866,
+							"g": 0.80000001192092896,
+							"b": 1,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 0,
+							"g": 0.44705900549888611,
+							"b": 0.50980401039123535,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0
+					},
+					"selected":
+					{
+						"backgroundcolor":
+						{
+							"r": 1,
+							"g": 1,
+							"b": 1,
+							"a": 1
+						},
+						"foregroundcolor":
+						{
+							"r": 0,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"bordercolor":
+						{
+							"r": 1,
+							"g": 0,
+							"b": 0,
+							"a": 1
+						},
+						"borderthickness": 0.10000000000000001,
+						"cornerradius": 0.5
+					}
+				},
+				"panelspacing": 10,
+				"layout": "NewEnumerator8",
+				"panel1":
+				{
+					"title": "PANEL 1",
+					"titlejustification": "Left",
+					"text": "PANEL 1 - TEXT",
+					"textjustification": "Left",
+					"backgroundcolor":
+					{
+						"r": 0,
+						"g": 0.0078429998829960823,
+						"b": 0.019608000293374062,
+						"a": 0.7019609808921814
+					},
+					"usecustombackgroundimage": false,
+					"custombackgroundimageurl": ""
 				},
 				"panel2":
 				{
@@ -458,12 +598,12 @@
 		],
 		"links": [
 			{
-				"id": "CB8BD5034740A3858A2075B868FBE909",
-				"url": "https://bit.ly/ArasArk",
+				"id": "F3783A94438B0A6EB15765A752D531CD",
+				"url": "https://discord.gg/7uHFUAzFsT",
 				"buttoninfo":
 				{
-					"id": "CB8BD5034740A3858A2075B868FBE909",
-					"title": "Discord",
+					"id": "F3783A94438B0A6EB15765A752D531CD",
+					"title": "ATOMIC DISCORD",
 					"position": "NewEnumerator0",
 					"normal":
 					{
@@ -572,12 +712,12 @@
 				}
 			},
 			{
-				"id": "F88652614CD76097A504DA89D41E671C",
-				"url": "https://www.patreon.com/arasark",
+				"id": "107204A44B672292F9D44BAE80EBE80F",
+				"url": "https://www.curseforge.com/ark-survival-ascended/search?page=1&pageSize=20&sortBy=relevancy&search=atomic",
 				"buttoninfo":
 				{
-					"id": "F88652614CD76097A504DA89D41E671C",
-					"title": "Patreon",
+					"id": "107204A44B672292F9D44BAE80EBE80F",
+					"title": "ATOMIC MODS",
 					"position": "NewEnumerator0",
 					"normal":
 					{
@@ -686,126 +826,12 @@
 				}
 			},
 			{
-				"id": "50DC233A4A81A66E44943789937FF60C",
-				"url": "https://www.arasark.site/shop",
+				"id": "D91657EB4D7B04BC60591AAEA402439B",
+				"url": "https://survivetheark.com/",
 				"buttoninfo":
 				{
-					"id": "50DC233A4A81A66E44943789937FF60C",
-					"title": "Reward Shop",
-					"position": "NewEnumerator1",
-					"normal":
-					{
-						"backgroundcolor":
-						{
-							"r": 1.0000008344650269,
-							"g": 0.82278650999069214,
-							"b": 0.074213728308677673,
-							"a": 0.20000000298023224
-						},
-						"foregroundcolor":
-						{
-							"r": 1.0000008344650269,
-							"g": 1.0000008344650269,
-							"b": 1.0000008344650269,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1.0000008344650269,
-							"g": 0.82278650999069214,
-							"b": 0.074213728308677673,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0
-					},
-					"hovered":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.84687399864196777,
-							"g": 0.11193263530731201,
-							"b": 0.11953864246606827,
-							"a": 0.40000000596046448
-						},
-						"foregroundcolor":
-						{
-							"r": 1.0000008344650269,
-							"g": 1.0000008344650269,
-							"b": 1.0000008344650269,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.84687399864196777,
-							"g": 0.11193263530731201,
-							"b": 0.11953864246606827,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0
-					},
-					"pressed":
-					{
-						"backgroundcolor":
-						{
-							"r": 0.84687399864196777,
-							"g": 0.11193263530731201,
-							"b": 0.11953864246606827,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 1.0000008344650269,
-							"g": 1.0000008344650269,
-							"b": 1.0000008344650269,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 0.84687399864196777,
-							"g": 0.11193263530731201,
-							"b": 0.11953864246606827,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0
-					},
-					"selected":
-					{
-						"backgroundcolor":
-						{
-							"r": 1,
-							"g": 1,
-							"b": 1,
-							"a": 1
-						},
-						"foregroundcolor":
-						{
-							"r": 0,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"bordercolor":
-						{
-							"r": 1,
-							"g": 0,
-							"b": 0,
-							"a": 1
-						},
-						"borderthickness": 0.10000000000000001,
-						"cornerradius": 0.5
-					}
-				}
-			},
-			{
-				"id": "B8C359B74343CFCA78EFC8BBE7CF03A4",
-				"url": "https://www.dododex.com/",
-				"buttoninfo":
-				{
-					"id": "B8C359B74343CFCA78EFC8BBE7CF03A4",
-					"title": "Dododex",
+					"id": "D91657EB4D7B04BC60591AAEA402439B",
+					"title": "ARK",
 					"position": "NewEnumerator1",
 					"normal":
 					{
@@ -949,23 +975,23 @@
 			{
 				"backgroundcolor":
 				{
-					"r": 0.84687399864196777,
-					"g": 0.11193263530731201,
-					"b": 0.11953864246606827,
-					"a": 0.40000000596046448
+					"r": 0,
+					"g": 0.015685999765992165,
+					"b": 0.043136999011039734,
+					"a": 1
 				},
 				"foregroundcolor":
 				{
-					"r": 1.0000008344650269,
-					"g": 1.0000008344650269,
-					"b": 1.0000008344650269,
+					"r": 0,
+					"g": 0.26274499297142029,
+					"b": 0.40784299373626709,
 					"a": 1
 				},
 				"bordercolor":
 				{
-					"r": 0.84687399864196777,
-					"g": 0.11193263530731201,
-					"b": 0.11953864246606827,
+					"r": 0,
+					"g": 0.23529399931430817,
+					"b": 0.27058801054954529,
 					"a": 1
 				},
 				"borderthickness": 0.10000000000000001,
@@ -975,23 +1001,23 @@
 			{
 				"backgroundcolor":
 				{
-					"r": 0.84687399864196777,
-					"g": 0.11193263530731201,
-					"b": 0.11953864246606827,
-					"a": 0.40000000596046448
+					"r": 0,
+					"g": 0.027450999245047569,
+					"b": 0.074510000646114349,
+					"a": 1
 				},
 				"foregroundcolor":
 				{
-					"r": 1.0000008344650269,
-					"g": 1.0000008344650269,
-					"b": 1.0000008344650269,
+					"r": 0.21568599343299866,
+					"g": 0.80000001192092896,
+					"b": 1,
 					"a": 1
 				},
 				"bordercolor":
 				{
-					"r": 0.84687399864196777,
-					"g": 0.11193263530731201,
-					"b": 0.11953864246606827,
+					"r": 0,
+					"g": 0.44705900549888611,
+					"b": 0.50980401039123535,
 					"a": 1
 				},
 				"borderthickness": 0.10000000000000001,
@@ -1146,9 +1172,9 @@
 			"showicon": true,
 			"hideafterduration": 60,
 			"usecustomicon": true,
-			"customiconurl": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
-			"usecustomtext": false,
-			"customtext": "",
+			"customiconurl": "https://drive.google.com/uc?export=download&id=1UU6n7WiNyRO7tTNhdEeqCBUNE0ml506O",
+			"usecustomtext": true,
+			"customtext": "PRESS F2 TO OPEN",
 			"customtextcolor":
 			{
 				"r": 1,
@@ -1156,26 +1182,26 @@
 				"b": 1,
 				"a": 1
 			},
-			"openbuttonkey": "F1",
+			"openbuttonkey": "F2",
 			"position": "NewEnumerator3",
-			"iconmarginx": 14.749264717102051,
-			"iconmarginy": 14.749264717102051,
+			"iconmarginx": 20,
+			"iconmarginy": 20,
 			"iconopacity": 1,
-			"customtextopacity": 0,
-			"customtexthorizontalalignment": "HAlign_Left",
+			"customtextopacity": 1,
+			"customtexthorizontalalignment": "HAlign_Center",
 			"customtextverticalalignment": "VAlign_Center",
-			"customtextfontsize": 0
+			"customtextfontsize": 15
 		},
 		"showsettings":
 		{
 			"onplayerlogon": true,
 			"fornewplayersonly": false,
-			"onnextplayerlogonversion": 8
+			"onnextplayerlogonversion": 0
 		},
 		"miscsettings":
 		{
-			"isplayerslistenabled": true,
-			"istribeslistenabled": true,
+			"isplayerslistenabled": false,
+			"istribeslistenabled": false,
 			"isdinoscannerenabled": false
 		}
 	}
