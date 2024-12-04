@@ -49,7 +49,7 @@
                "FadeTime": 5
            },
            {
-               "URL": "",
+               "URL": "https://aras-ark.github.io/webassets/images/asm/panels/corner_logo.png",
                "Pos": "BottomRight",
                "Persist": true,
                "FadeTime": 5
