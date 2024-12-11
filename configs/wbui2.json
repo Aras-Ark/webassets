@@ -16,7 +16,7 @@
 		},
 		"tabs": [
 			{
-				"layout": 3,
+				"layout": 1,
 				"buttontext": "Welcome",
 				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/welcome.png",
 				"content": [
@@ -34,6 +34,28 @@
 					},
 					{
 						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Connecting character",
+				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/getconnectcode.png",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Rule Gate",
+				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/rulegate.png",
+				"content": [
+					{
+						"title": "Rule Gate",
 						"text": ""
 					}
 				]
