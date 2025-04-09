@@ -40,7 +40,7 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Connectcode",
+				"buttontext": "!getconnectcode",
 				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/getconnectcode.png",
 				"content": [
 					{
@@ -51,11 +51,11 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Rules",
+				"buttontext": "Server Rules",
 				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/rulegate.png",
 				"content": [
 					{
-						"title": "Rule Gate",
+						"title": "",
 						"text": ""
 					}
 				]
