@@ -40,7 +40,7 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "!getconnectcode",
+				"buttontext": "!getConnectCode",
 				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/getconnectcode.png",
 				"content": [
 					{
