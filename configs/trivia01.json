@@ -1,4 +1,13 @@
-[
-  {"wizard": "Segradeth"},
-  {"forgetful": "Mother Goose"}
-]
+{
+  "trivia": "Title",
+  "questions": [
+    {
+      "question": "What creature is good for metal farming?",
+      "answer": ["Ankylosaurus", "Ankylo", "Anky"],
+      "options": ["Doedicurus","Megalania","Ankylosaurus","Megalocerus"],
+      "rewards": ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 True 20"],
+      "timetoanswer": 5,
+      "winners": 1
+    }
+  ]
+}
