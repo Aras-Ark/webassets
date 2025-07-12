@@ -5,7 +5,7 @@
       "question": "What creature is good for metal farming?",
       "answer": ["Ankylosaurus", "Ankylo", "Anky"],
       "rewards": [
-			["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20"]
+			1: ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20"]
 		],
       "timetoanswer": 15
     },
@@ -14,7 +14,7 @@
       "answer": ["All three"],
       "options": ["Mantis","Dunkleosteus","Ankylosaurus","All three"],
       "rewards": [
-			["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"]
+			1: ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"]
 		],
       "timetoanswer": 15
     },
@@ -23,9 +23,9 @@
       "answer": ["Ankylosaurus", "Ankylo", "Anky"],
       "options": ["Doedicurus","Megalania","Ankylosaurus","Megalocerus"],
       "rewards": [
-			["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20", "/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk 20 0 0"],
-			["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
-			["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20"]
+			1: ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20", "/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk 20 0 0"],
+			2: ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
+			3: ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20"]
 		],
       "timetoanswer": 15
     }
