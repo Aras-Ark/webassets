@@ -1,9 +1,9 @@
 {
-  "trivia": "How well do you know your Ragnarok?",
+  "trivia": "How well do you know Ragnarok?",
   "questions": [
     {
-      "question": "Question 1: Does Ragnarok have unique world bosses? If so, what are they called?",
-      "answer": ["Ice Queen", "Lave Golem", "Icequeen", "Lavagolem"],
+      "question": "Question 1: Does Ragnarok have unique world bosses? Name only one of them.",
+      "answer": ["Ice Queen", "Lava Golem", "Icequeen", "Lavagolem"],
       "rewards": [
 			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02 1 0 0"]}
 		],
@@ -14,9 +14,7 @@
       "answer": ["Lair of the mask"],
       "rewards": [
 			{
-        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0"],
-        "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_HyperGrowthFormula.PrimalItemConsumable_HyperGrowthFormula 2 0 0"],
-        "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"]
+        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0","/ArasArk/DinoConsumables/PrimalItemConsumable_HyperGrowthFormula.PrimalItemConsumable_HyperGrowthFormula 2 0 0"],"/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"]
       }
 		],
       "timetoanswer": 20
