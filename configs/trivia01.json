@@ -2,32 +2,66 @@
   "trivia": "How well do you know your Ark creatures?",
   "questions": [
     {
-      "question": "What creature is good for metal farming?",
-      "answer": ["Ankylosaurus", "Ankylo", "Anky"],
+      "question": "Question 1: Does Ragnarok have unique world bosses? If so, what are they called?",
+      "answer": ["Ice Queen", "Lave Golem", "Icequeen", "Lavagolem"],
       "rewards": [
-			1: ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20"]
+			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02 1 0 0"]}
 		],
-      "timetoanswer": 15
+      "timetoanswer": 5
     },
     {
-      "question": "What creature is good for metal farming?",
+      "question": "Question 2: What's the real name of the cave the community refers to as the mushroom cave?",
+      "answer": ["Lair of the mask"],
+      "rewards": [
+			{
+        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0"],
+        "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_HyperGrowthFormula.PrimalItemConsumable_HyperGrowthFormula 2 0 0"],
+        "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"]
+      }
+		],
+      "timetoanswer": 5
+    },
+    {
+      "question": "Question 3: Where on Ragnarok did the famous Aras Builder 'Jam' build his Bridge in on ase?",
+      "answer": ["Viking Bay"],
+      "rewards": [
+			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 20 0 0"]}
+		],
+      "timetoanswer": 5
+    },
+    {
+      "question": "Question 4:  What other, unique feature does an Otter have as BESIDES insulation?",
+      "answer": ["Carry artifacts", "Multiple artifacts", "Hold artifacts", "Artifacts"],
+      "rewards": [
+			{"1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 500 0 0"]}
+		],
+      "timetoanswer": 5
+    },
+    {
+      "question": "Question 5: What creature is unique to Ragnarok on ASE and ASA?",
+      "answer": ["Griffin", "Ice wyvern"],
+      "rewards": [
+			{"1": ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 12"]}
+		],
+      "timetoanswer": 5
+    },
+    {
+      "question": "Question 6: What creatures make diving to the wreckage in Viking Bay a challenging expedition?",
       "answer": ["All three"],
-      "options": ["Mantis","Dunkleosteus","Ankylosaurus","All three"],
+      "options": ["Eurypterid","Sea Scorpion"],
       "rewards": [
-			1: ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"]
+			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"]}
 		],
-      "timetoanswer": 15
+      "timetoanswer": 5
     },
     {
-      "question": "What creature is good for metal farming?",
+      "question": "Question 7: What is the correct spelling for a Carcha's full name?",
       "answer": ["Ankylosaurus", "Ankylo", "Anky"],
-      "options": ["Doedicurus","Megalania","Ankylosaurus","Megalocerus"],
+      "options": ["Charcharodontosaurus","Charcharosaurus","Carcharodontosaurus"],
       "rewards": [
-			1: ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20", "/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk 20 0 0"],
-			2: ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
-			3: ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 20"]
+			{"1": ["/Sprinkles/Assets/Items/ItemCraftingPotion.ItemCraftingPotion 2 0 0"]}
 		],
-      "timetoanswer": 15
+      "timetoanswer": 5
     }
   ]
 }
