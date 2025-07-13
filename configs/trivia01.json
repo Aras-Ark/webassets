@@ -7,7 +7,7 @@
       "rewards": [
 			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02 1 0 0"]}
 		],
-      "timetoanswer": 20
+      "timetoanswer": 15
     },
     {
       "question": "Question 2: What's the real name of the cave the community refers to as the mushroom cave?",
@@ -25,7 +25,7 @@
       "rewards": [
 			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 20 0 0"]}
 		],
-      "timetoanswer": 20
+      "timetoanswer": 15
     },
     {
       "question": "Question 4:  What other, unique feature does an Otter have as BESIDES insulation?",
@@ -41,7 +41,7 @@
       "rewards": [
 			{"1": ["/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 1 12"]}
 		],
-      "timetoanswer": 20
+      "timetoanswer": 15
     },
     {
       "question": "Question 6: What creatures make diving to the wreckage in Viking Bay a challenging expedition?",
@@ -50,7 +50,7 @@
       "rewards": [
 			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"]}
 		],
-      "timetoanswer": 20
+      "timetoanswer": 10
     },
     {
       "question": "Question 7: What is the correct spelling for a Carcha's full name?",
@@ -59,7 +59,7 @@
       "rewards": [
 			{"1": ["/Sprinkles/Assets/Items/ItemCraftingPotion.ItemCraftingPotion 2 0 0"]}
 		],
-      "timetoanswer": 20
+      "timetoanswer": 10
     }
   ]
 }
