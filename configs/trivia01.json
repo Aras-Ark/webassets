@@ -14,7 +14,7 @@
       "answer": ["Lair of the mask"],
       "rewards": [
 			{
-        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0","/ArasArk/DinoConsumables/PrimalItemConsumable_HyperGrowthFormula.PrimalItemConsumable_HyperGrowthFormula 2 0 0"],"/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"]
+        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"]
       }
 		],
       "timetoanswer": 20
