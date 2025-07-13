@@ -3,7 +3,7 @@
   "questions": [
     {
       "question": "Question 1: Does Ragnarok have unique world bosses? Name only one of them.",
-      "answer": ["Ice Queen", "Lava Golem", "Icequeen", "Lavagolem"],
+      "answer": ["Ice Queen", "Lava Golem", "Icequeen", "Lavagolem", "Ice worm", "Ice worm queen", "iceworm queen"],
       "rewards": [
 			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02 1 0 0"]}
 		],
@@ -14,13 +14,13 @@
       "answer": ["Lair of the mask"],
       "rewards": [
 			{
-        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0","/ArasArk/DinoConsumables/PrimalItemConsumable_HyperGrowthFormula.PrimalItemConsumable_HyperGrowthFormula 2 0 0","/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"]
+        "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_SoulCapsule.PrimalItemConsumable_SoulCapsule 2 0 0","/ArasArk/DinoConsumables/PrimalItemConsumable_HyperGrowthFormula.PrimalItemConsumable_HyperGrowthFormula 2 0 0","/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 2 0 0"]
       }
 		],
       "timetoanswer": 20
     },
     {
-      "question": "Question 3: Where on Ragnarok did the famous Aras Builder 'Jam' build his Bridge in on ASE?",
+      "question": "Question 3: Where on Ragnarok did the famous Aras Builder 'Jam' build his Bridge on ASE?",
       "answer": ["Viking Bay"],
       "rewards": [
 			{"1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 20 0 0"]}
