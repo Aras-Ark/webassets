@@ -1,8 +1,8 @@
 {
-  "trivia": "Know your creatures. (8 questions)",
+  "trivia": "Know your creatures (8 questions)",
   "questions": [
     {
-      "question": "Question 1:  True or false: a Diplodocus is a knockout tame.",
+      "question": "Question 1:  True or false; a Diplodocus is a knockout tame.",
       "answer": [
         "Yes"
       ],
@@ -44,7 +44,7 @@
       "timetoanswer": 15
     },
     {
-      "question": "Question 4:  True or false: a Trilobite can be tamed.",
+      "question": "Question 4:  True or false; a Trilobite can be tamed.",
       "answer": [
         "Yes"
       ],
