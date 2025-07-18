@@ -1,0 +1,126 @@
+{
+	"trivia": "7 questions, how well do you know Ragnarok? (7 questions)",
+	"questions": [
+		{
+			"question": "Question 1: Does Ragnarok have unique world bosses? Name only one of them.",
+			"answer": [
+				"Ice Queen",
+				"Lava Golem",
+				"Icequeen",
+				"Lavagolem",
+				"Ice worm",
+				"Ice worm queen",
+				"iceworm queen"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_02.PrimalItemArtifact_02 1 0 0"
+					]
+				}
+			],
+			"timetoanswer": 15
+		},
+		{
+			"question": "Question 2: What's the real name of the cave the community refers to as the mushroom cave?",
+			"answer": [
+				"Lair of the mask"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0",
+						"/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0",
+						"/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 2 0 0"
+					]
+				}
+			],
+			"timetoanswer": 15
+		},
+		{
+			"question": "Question 3: Where on Ragnarok did the famous Aras Builder 'Jam' build his Bridge on ASE?",
+			"answer": [
+				"Viking Bay"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 20 0 0"
+					]
+				}
+			],
+			"timetoanswer": 15
+		},
+		{
+			"question": "Question 4: What tameable creature was first inroduced on Ragnarok on ASE?",
+			"answer": [
+				"Griffin"
+			],
+			"options": [
+				"Ice wyvern",
+				"Griffin",
+				"Both"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 20 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 5: What creatures make diving to the wreckage in Viking Bay a challenging expedition?",
+			"answer": [
+				"Both"
+			],
+			"options": [
+				"Eurypterid",
+				"Sea Scorpion",
+				"Both"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 20 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 6: What massive carnivore(s) roams the Highlands region?",
+			"answer": [
+				"Both"
+			],
+			"options": [
+				"Giganotosaurus",
+				"Carcharodontosaurus",
+				"Both"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/NeebsGamingChibis/Dora/PrimalItemSkin_ChibiDino_Dora.PrimalItemSkin_ChibiDino_Dora 1 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 7: What tame is useful for surviving the Murder Snow’s extreme temperatures?",
+			"answer": [
+				"Otter"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/ASA/Dinos/Ceratosaurus/Dinos/Cocktail/PrimalItemConsumable_HemogoblinCocktail_ASA.PrimalItemConsumable_HemogoblinCocktail_ASA 14 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		}
+	]
+}
