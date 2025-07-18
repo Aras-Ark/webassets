@@ -2,15 +2,14 @@
 	"trivia": "How well do you know Ragnarok? (7 questions)",
 	"questions": [
 		{
-			"question": "Question 1: Does Ragnarok have unique world bosses? Name only one of them.",
+			"question": "Question 1: The original Ragnarok combines assets from which two original Ark maps?",
 			"answer": [
-				"Ice Queen",
-				"Lava Golem",
-				"Icequeen",
-				"Lavagolem",
-				"Ice worm",
-				"Ice worm queen",
-				"iceworm queen"
+				"The Island and Scorched Earth"
+			],
+			"options": [
+				"The Center and The Island",
+				"Scorched Earthed Earth and The Center",
+				"The Island and Scorched Earth"
 			],
 			"rewards": [
 				{
@@ -19,12 +18,17 @@
 					]
 				}
 			],
-			"timetoanswer": 15
+			"timetoanswer": 10
 		},
 		{
-			"question": "Question 2: What's the real name of the cave the community refers to as the mushroom cave?",
+			"question": "Question 2: What name did the community give to the cave known as the Lair of the Mask?",
 			"answer": [
-				"Lair of the mask"
+				"Mushroom Cave"
+			],
+			"options": [
+				"Mushroom Cave",
+				"Crystal Cave",
+				"Ocean Cave"
 			],
 			"rewards": [
 				{
@@ -35,12 +39,17 @@
 					]
 				}
 			],
-			"timetoanswer": 15
+			"timetoanswer": 10
 		},
 		{
 			"question": "Question 3: Where on Ragnarok did the famous Aras Builder 'Jam' build his Bridge on ASE?",
 			"answer": [
-				"Viking Bay"
+				"Viking Bay 1"
+			],
+			"options": [
+				"Viking Bay 1",
+				"Viking Bay 2",
+				"Viking Bay 3"
 			],
 			"rewards": [
 				{
@@ -112,6 +121,11 @@
 			"question": "Question 7: What tame is useful for surviving the Murder Snow’s extreme temperatures?",
 			"answer": [
 				"Otter"
+			],
+			"options": [
+				"Sabertooth",
+				"Otter",
+				"Dire Bear"
 			],
 			"rewards": [
 				{
