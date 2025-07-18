@@ -1,0 +1,122 @@
+{
+  "trivia": "Know your creatures. (8 questions)",
+  "questions": [
+    {
+      "question": "Question 1:  True or false: a Diplodocus is a knockout tame.",
+      "answer": [
+        "Yes"
+      ],
+      "options": [
+        "Yes","No"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart 100 0 0"]
+        }
+  		],
+      "timetoanswer": 6
+    },
+    {
+      "question": "Question 2: What is the correct spelling for a Carcha's full name?",
+      "answer": [
+        "Carcharodontosaurus"
+      ],
+      "options": [
+        "Charcharodontosaurus","Charcharosaurus","Carcharodontosaurus"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 14 0"]
+        }
+  		],
+      "timetoanswer": 10
+    },
+    {
+      "question": "Question 3:  What other, unique feature does an Otter have as BESIDES insulation?",
+      "answer": [
+        "Carry artifacts","Multiple artifacts","Hold artifacts","Artifacts"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06 1 0 0"]
+        }
+  		],
+      "timetoanswer": 15
+    },
+    {
+      "question": "Question 4:  True or false: a Trilobite can be tamed.",
+      "answer": [
+        "Yes"
+      ],
+      "options": [
+        "Yes","No"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl 50 0 0"]
+        }
+  		],
+      "timetoanswer": 6
+    },
+    {
+      "question": "Question 5:  Which of these creatures is best for traversing the underwater caves?",
+      "answer": [
+        "Basilosaurus"
+      ],
+      "options": [
+        "Ichtyornis","Megalodon","Basilosaurus","Dunkleosteus","Mosasaur"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle 1 20 0"]
+        }
+  		],
+      "timetoanswer": 10
+    },
+    {
+      "question": "Question 6:  What other water creature is involved in taming a Shastasaurus?",
+      "answer": [
+        "Ichtyosaurus"
+      ],
+      "options": [
+        "Electrophorus","Archelon","Ichtyosaurus"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/ASA/Dinos/Shastasaurus/PrimalItemArmor_ShastaSaddle_Submarine.PrimalItemArmor_ShastaSaddle_Submarine 1 0 0"]
+        }
+  		],
+      "timetoanswer": 10
+    },
+    {
+      "question": "Question 7:  What is a Mantis' preferred taming food?",
+      "answer": [
+        "Deathworm horn"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/ScorchedEarth/Dinos/Deathworm/PrimalItemResource_KeratinSpike.PrimalItemResource_KeratinSpike 5 0 0"]
+        }
+  		],
+      "timetoanswer": 10
+    },
+    {
+      "question": "Question 8: Air conditioning, Underwater Breathing, Insulation, Pest Control...",
+      "answer": [
+        "Dimetrodon, Dimetrodon, Otter, Cat"
+      ],
+      "options": [
+        "Diplocaulus, Dimetrodon, Otter, Cat",
+        "Dimetrodon, Diplocaulus, Otter, Cat",
+        "Dimetrodon, Otter, Diplocaulus, Cat",
+        "Otter, Diplocaulus, Dimetrodon, Cat"
+      ],
+      "rewards": [
+  			{
+          "1": ["/Game/Genesis2/Structures/EggIncubator/PrimalItemStructure_EggIncubator.PrimalItemStructure_EggIncubator 1 0 0"]
+        }
+  		],
+      "timetoanswer": 6
+    }
+  ]
+}
