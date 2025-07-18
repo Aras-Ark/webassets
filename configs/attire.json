@@ -1,1 +1,155 @@
-{"trivia":"So you think you know ark...","questions":[{"question":"Question 1:  What is the name of the very first Ark map?","answer":["The Island"],"rewards":[{"1":["/Game/PrimalEarth/Items/Raft/PrimalItemMotorboat.PrimalItemMotorboat 1 0 0"]}],"timetoanswer":15},{"question":"Question 2: What was the second official Ark map to be launched?","answer":["The Center"],"rewards":[{"1":["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap 100 0 0"]}],"timetoanswer":15},{"question":"Question 3:  What flyer was the first to allow riders to shoot from its back?","answer":["Tapejara"],"options":["Tapejara","Pteranodon","Griffin","All three"],"rewards":[{"1":["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle 1 0 20"]}],"timetoanswer":10},{"question":"Question 4:  What resources are needed to craft an Electric Generator?","answer":["25 Metal Ingots, 10 Electronics","28 Metal Ingots, 30 Silica Pearls"],"options":["25 Metal Ingots, 10 Electronics","15 Metal Ingots, 50 Electronics","28 Metal Ingots, 30 Silica Pearls"],"rewards":[{"1":["/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fabricator.PrimalItemStructure_Fabricator 1 0 0"],"2":["/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fabricator.PrimalItemStructure_Fabricator 1 0 0"]}],"timetoanswer":20},{"question":"Question 5: The Island: what cave has the Artifact of the Skylord?","answer":["North West Cave"],"options":["Swamp Cave","Snow Cave","North East Cave","North West Cave"],"rewards":[{"1":["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06 1 0 0"]}],"timetoanswer":10},{"question":"Question 6: Which creature is best suited to fight the Broodmother?","answer":["Megatherium"],"options":["Megatherium","Therizinosaur","Rex","Dire Bear"],"rewards":[{"1":["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle 1 0 20"]}],"timetoanswer":10},{"question":"Question 7: Which is the lowest structure tier that is resistant against a Giganotosaurus?","answer":["Metal"],"options":["Stone","Metal","Tek"],"rewards":[{"1":["/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalGateframe.PrimalItemStructure_MetalGateframe 7 0 0"]}],"timetoanswer":10},{"question":"Question 8: What is a unique ability of the Gigantopithecus?","answer":["Throw riders into the air"],"options":["Traverse vines and zip-lines","Climb steap inclines","Throw riders into the air"],"rewards":[{"1":["/Game/Aberration/CoreBlueprints/Items/Armor/PrimalItemArmor_ZiplineMotor.PrimalItemArmor_ZiplineMotor 1 0 0","/Game/Aberration/CoreBlueprints/Weapons/PrimalItemAmmo_Zipline.PrimalItemAmmo_Zipline 20 0 0"]}],"timetoanswer":10}]}
+{
+	"trivia": "So you think you know ark... (8 questions)",
+	"questions": [
+		{
+			"question": "Question 1:  What is the name of the very first Ark map?",
+			"answer": [
+				"The Island"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/Items/Raft/PrimalItemMotorboat.PrimalItemMotorboat 1 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 2: What was the second official Ark map to be launched?",
+			"answer": [
+				"The Center"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap 100 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 3:  What flyer was the first to allow riders to shoot from its back?",
+			"answer": [
+				"Tapejara"
+			],
+			"options": [
+				"Tapejara",
+				"Pteranodon",
+				"Griffin",
+				"All three"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle 1 0 20"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 4:  What resources are needed to craft an Electric Generator?",
+			"answer": [
+				"25 Metal Ingots, 10 Electronics",
+				"28 Metal Ingots, 30 Silica Pearls"
+			],
+			"options": [
+				"25 Metal Ingots, 10 Electronics",
+				"15 Metal Ingots, 50 Electronics",
+				"28 Metal Ingots, 30 Silica Pearls"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fabricator.PrimalItemStructure_Fabricator 1 0 0"
+					],
+					"2": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fabricator.PrimalItemStructure_Fabricator 1 0 0"
+					]
+				}
+			],
+			"timetoanswer": 20
+		},
+		{
+			"question": "Question 5: The Island: what cave has the Artifact of the Skylord?",
+			"answer": [
+				"North West Cave"
+			],
+			"options": [
+				"Swamp Cave",
+				"Snow Cave",
+				"North East Cave",
+				"North West Cave"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06 1 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 6: Which creature is best suited to fight the Broodmother?",
+			"answer": [
+				"Megatherium"
+			],
+			"options": [
+				"Megatherium",
+				"Therizinosaur",
+				"Rex",
+				"Dire Bear"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle 1 0 20"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 7: Which is the lowest structure tier that is resistant against a Giganotosaurus?",
+			"answer": [
+				"Metal"
+			],
+			"options": [
+				"Stone",
+				"Metal",
+				"Tek"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalGateframe.PrimalItemStructure_MetalGateframe 7 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		},
+		{
+			"question": "Question 8: What is a unique ability of the Gigantopithecus?",
+			"answer": [
+				"Throw riders into the air"
+			],
+			"options": [
+				"Climb steap inclines",
+				"Throw riders into the air",
+        "Traverse vines and zip-lines"
+			],
+			"rewards": [
+				{
+					"1": [
+						"/Game/Aberration/CoreBlueprints/Items/Armor/PrimalItemArmor_ZiplineMotor.PrimalItemArmor_ZiplineMotor 1 0 0",
+						"/Game/Aberration/CoreBlueprints/Weapons/PrimalItemAmmo_Zipline.PrimalItemAmmo_Zipline 20 0 0"
+					]
+				}
+			],
+			"timetoanswer": 10
+		}
+	]
+}
