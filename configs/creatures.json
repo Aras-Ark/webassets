@@ -4,10 +4,10 @@
     {
       "question": "Question 1:  True or false; a Diplodocus is a knockout tame.",
       "answer": [
-        "Yes"
+        "True"
       ],
       "options": [
-        "Yes","No"
+        "True","False"
       ],
       "rewards": [
   			{
@@ -46,10 +46,10 @@
     {
       "question": "Question 4:  True or false; a Trilobite can be tamed.",
       "answer": [
-        "Yes"
+        "True"
       ],
       "options": [
-        "Yes","No"
+        "True","False"
       ],
       "rewards": [
   			{
@@ -116,7 +116,7 @@
           "1": ["/Game/Genesis2/Structures/EggIncubator/PrimalItemStructure_EggIncubator.PrimalItemStructure_EggIncubator 1 0 0"]
         }
   		],
-      "timetoanswer": 6
+      "timetoanswer": 30
     }
   ]
 }
