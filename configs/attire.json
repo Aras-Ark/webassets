@@ -2,9 +2,15 @@
 	"trivia": "So you think you know ark... (8 questions)",
 	"questions": [
 		{
-			"question": "Question 1:  What is the name of the very first Ark map?",
+			"question": "Question 1:  Which is the correct map launch order?",
 			"answer": [
-				"The Island"
+				"The Island, The Center, Scorched Earth"
+			],
+			"options": [
+				"The Island, Scorched Earth, The Center",
+				"The Island, The Center, Ragnarok",
+				"Ragnarok, Aberration, The Center",
+				"The Island, The Center, Scorched Earth"
 			],
 			"rewards": [
 				{
@@ -13,12 +19,18 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		},
 		{
-			"question": "Question 2: What was the second official Ark map to be launched?",
+			"question": "Question 2: What was the fifth official Ark map to be launched?",
 			"answer": [
-				"The Center"
+				"Aberration"
+			],
+			"options": [
+				"Aberration",
+				"Valguero",
+				"Extinction",
+				"Crystal Isles"
 			],
 			"rewards": [
 				{
@@ -27,7 +39,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 25
 		},
 		{
 			"question": "Question 3:  What flyer was the first to allow riders to shoot from its back?",
@@ -47,7 +59,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 4:  What resources are needed to craft an Electric Generator?",
@@ -70,7 +82,7 @@
 					]
 				}
 			],
-			"timetoanswer": 20
+			"timetoanswer": 30
 		},
 		{
 			"question": "Question 5: The Island: what cave has the Artifact of the Skylord?",
@@ -90,7 +102,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 6: Which creature is best suited to fight the Broodmother?",
@@ -110,7 +122,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 7: Which is the lowest structure tier that is resistant against a Giganotosaurus?",
@@ -129,7 +141,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 8: What is a unique ability of the Gigantopithecus?",
@@ -149,7 +161,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		}
 	]
 }
