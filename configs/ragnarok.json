@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"timetoanswer": 15
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 2: What's the real name of the cave the community refers to as the mushroom cave?",
@@ -35,7 +35,7 @@
 					]
 				}
 			],
-			"timetoanswer": 15
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 3: Where on Ragnarok did the famous Aras Builder 'Jam' build his Bridge on ASE?",
@@ -49,7 +49,7 @@
 					]
 				}
 			],
-			"timetoanswer": 15
+			"timetoanswer": 20
 		},
 		{
 			"question": "Question 4: What tameable creature was first introduced on Ragnarok on ASE?",
@@ -64,11 +64,11 @@
 			"rewards": [
 				{
 					"1": [
-						"/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 20 0"
+						"/Game/ASA/Dinos/Bison/PrimalItemArmor_BisonSaddle.PrimalItemArmor_BisonSaddle 1 0 20"
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 15
 		},
 		{
 			"question": "Question 5: What creatures make diving to the wreckage in Viking Bay a challenging expedition?",
@@ -83,11 +83,11 @@
 			"rewards": [
 				{
 					"1": [
-						"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 20 0"
+						"/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 0 20"
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 15
 		},
 		{
 			"question": "Question 6: What massive carnivore roams the Highlands region?",
@@ -106,7 +106,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 15
 		},
 		{
 			"question": "Question 7: What tame is useful for surviving the Murder Snow’s extreme temperatures?",
@@ -120,7 +120,7 @@
 					]
 				}
 			],
-			"timetoanswer": 10
+			"timetoanswer": 20
 		}
 	]
 }
