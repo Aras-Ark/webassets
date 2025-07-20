@@ -14,7 +14,7 @@
           "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart 100 0 0"]
         }
   		],
-      "timetoanswer": 6
+      "timetoanswer": 15
     },
     {
       "question": "Question 2: What is the correct spelling for a Carcha's full name?",
@@ -29,19 +29,25 @@
           "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 0 14"]
         }
   		],
-      "timetoanswer": 10
+      "timetoanswer": 20
     },
     {
-      "question": "Question 3:  What other, unique feature does an Otter have as BESIDES insulation?",
+      "question": "Question 3:  What unique features does an otter have?",
       "answer": [
-        "Carry artifacts","Multiple artifacts","Hold artifacts","Artifacts"
+        "All three"
+      ],
+      "options": [
+        "Carry artifacts, provide insulation, gather fish",
+        "Carry artifacts, provide insulation, gather silica pearls",
+        "Carry artifacts, provide insulation, gather black pearls",
+        "All three"
       ],
       "rewards": [
   			{
           "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Artifacts/PrimalItemArtifact_06.PrimalItemArtifact_06 1 0 0"]
         }
   		],
-      "timetoanswer": 15
+      "timetoanswer": 30
     },
     {
       "question": "Question 4:  True or false; a Trilobite can be tamed.",
@@ -56,7 +62,7 @@
           "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl 50 0 0"]
         }
   		],
-      "timetoanswer": 10
+      "timetoanswer": 15
     },
     {
       "question": "Question 5:  Which of these creatures is best for traversing the underwater caves?",
@@ -71,7 +77,7 @@
           "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_BasiloSaddle.PrimalItemArmor_BasiloSaddle 1 0 20"]
         }
   		],
-      "timetoanswer": 10
+      "timetoanswer": 20
     },
     {
       "question": "Question 6:  What other water creature is involved in taming a Shastasaurus?",
@@ -86,22 +92,27 @@
           "1": ["/Game/ASA/Dinos/Shastasaurus/PrimalItemArmor_ShastaSaddle_Submarine.PrimalItemArmor_ShastaSaddle_Submarine 1 0 0"]
         }
   		],
-      "timetoanswer": 10
+      "timetoanswer": 20
     },
     {
-      "question": "Question 7:  What is a Mantis' preferred taming food?",
+      "question": "Question 7: What creature can be used as an airconditioner?",
       "answer": [
-        "Deathworm horn"
+        "Diplocaulus"
+      ],
+      "options": [
+        "Dimetron",
+        "Diploducus",
+        "Diplocaulus"
       ],
       "rewards": [
   			{
           "1": ["/Game/ScorchedEarth/Dinos/Deathworm/PrimalItemResource_KeratinSpike.PrimalItemResource_KeratinSpike 5 0 0"]
         }
   		],
-      "timetoanswer": 15
+      "timetoanswer": 20
     },
     {
-      "question": "Question 8: Air conditioning, Underwater Breathing, Insulation, Pest Control...",
+      "question": "Final questions: Air conditioning, Underwater Breathing, Insulation, Pest Control...",
       "answer": [
         "Dimetrodon, Dimetrodon, Otter, Cat"
       ],
@@ -116,7 +127,7 @@
           "1": ["/Game/Genesis2/Structures/EggIncubator/PrimalItemStructure_EggIncubator.PrimalItemStructure_EggIncubator 1 0 0"]
         }
   		],
-      "timetoanswer": 30
+      "timetoanswer": 60
     }
   ]
 }
