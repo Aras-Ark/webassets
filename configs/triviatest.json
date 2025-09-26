@@ -8,7 +8,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 2: What is the first question?",
@@ -17,7 +17,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 3: What is the first question?",
@@ -26,7 +26,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 4: What is the first question?",
@@ -35,7 +35,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 5: What is the first question?",
@@ -44,7 +44,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 6: What is the first question?",
@@ -53,7 +53,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 7: What is the first question?",
@@ -62,7 +62,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 8: What is the first question?",
@@ -71,7 +71,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 9: What is the first question?",
@@ -80,7 +80,7 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     },
     {
       "question": "Question 10: What is the first question?",
@@ -89,6 +89,6 @@
       "rewards": [
   			{"1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers 1 0 0"]}
   		],
-      "timetoanswer": 3
+      "timetoanswer": 10
     }
   ]
