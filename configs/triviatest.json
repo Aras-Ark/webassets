@@ -1,5 +1,6 @@
 {
   "trivia": "How well do you know Ragnarok?",
+  "delaystartinseconds": 5,
   "questions": [
     {
       "question": "Question 6: What creatures make diving to the wreckage in Viking Bay a challenging expedition?",
