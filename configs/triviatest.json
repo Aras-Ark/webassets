@@ -32,6 +32,18 @@
   		],
       "timetoanswer": 10
     },
+    [
+      {
+        "question": "What makes diving to the wreckage in Viking bay challenging? (Multiple answers possible)",
+        "answer": ["Sea Scorpion","Eurypterid"],
+        "options": ["Sea Scorpion","Eurypterid","Star Seahorse"],
+        "rewards": [
+    			{
+            "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
+            "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 10"],
+            "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 0"]
+          }
+  		],
     {
       "question": "Is a Pegomastax bigger than a Compy?",
       "answer": ["Yes"],
