@@ -6,17 +6,11 @@
       "question": "What was the first Ark map to ever be released?",
       "answer": ["The Island"],
       "options": ["The Island","Lost Isles","Extinction"],
-      "rewards": [
-  			{
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"]
-        },
-        {
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 5"]
-        },
-        {
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 5"],
           "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 1"]
-        }
-		  ],
+      },
       "timetoanswer": 10
     },
     {
@@ -27,34 +21,22 @@
         "Charcharosaurus",
         "Carcharodontosaurus",
         "Carcha"],
-      "rewards": [
-        {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 20"]
-        },
-        {
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 5"]
-        },
-        {
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 5"],
           "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 1"]
-        }
-  		],
+  		},
       "timetoanswer": 10
     },
     {
       "question": "What makes diving to the wreckage in Viking bay challenging? (Multiple answers possible)",
       "answer": ["Sea Scorpion","Eurypterid"],
       "options": ["Sea Scorpion","Eurypterid","Star Seahorse"],
-      "rewards": [
-  			{
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 20"]
-        },
-        {
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 5"]
-        },
-        {
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 5"],
           "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 1"]
-        }
-      ],
+      },
       "timetoanswer": 10
     },
     {
@@ -63,17 +45,11 @@
       "options": [
         "Yes",
         "No"],
-      "rewards": [
-        {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 20"]
-        },
-        {
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 5"]
-        },
-        {
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 5"],
           "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 1"]
-        }
-  		],
+  		},
       "timetoanswer": 10
     }
   ]
