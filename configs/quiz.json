@@ -7,8 +7,8 @@
       "answer": ["Broodmother"],
       "options": ["Broodmother","Megapithecus","Manticore","Dragon"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun 1 4 0", "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 50 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle 1 4 0", "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 50 0 0"],
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun 1 5 0", "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 50 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle 1 5 0", "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 50 0 0"],
           "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 50 0 0","/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 50 0 0"]
       },
       "timetoanswer": 25
@@ -19,9 +19,9 @@
       "options": [
         "June 2019","July 2019","June 2020","July 2020"],
       "rewards": {
-          "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 3 0 0"],
-          "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 2 0 0"],
-          "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 1 0 0"]
+          "1": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 3 0 0"],
+          "2": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 2 0 0"],
+          "3": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 1 0 0"]
   		},
       "timetoanswer": 35
     },
@@ -30,9 +30,9 @@
       "answer": ["Nekatus"],
       "options": ["Aaron Longstaff","Studio Wildcard","Nekatus","Ben Burkart"],
       "rewards": {
-          "1": ["/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin100.PrimalItemConsumable_TokenCoin100 2 0 0","/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin50.PrimalItemConsumable_TokenCoin50 1 0 0"],
-          "2": ["/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin100.PrimalItemConsumable_TokenCoin100 1 0 0"],
-          "3": ["/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin50.PrimalItemConsumable_TokenCoin50 1 0 0"]
+          "1": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 300 0 0"],
+          "2": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 150 0 0"],
+          "3": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 100 0 0"]
   		},
       "timetoanswer": 25
     },
