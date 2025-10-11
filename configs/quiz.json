@@ -7,11 +7,11 @@
       "answer": ["Broodmother"],
       "options": ["Broodmother","Megapithecus","Manticore","Dragon"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun 1 4 0", "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 50 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle 1 4 0", "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 50 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 50 0 0","/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 50 0 0"]
       },
-      "timetoanswer": 30
+      "timetoanswer": 25
     },
     {
       "question": "When did Wild Card first release Valguero as an official DLC?",
@@ -19,53 +19,53 @@
       "options": [
         "June 2019","July 2019","June 2020","July 2020"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 20"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 0"]
+          "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 3 0 0"],
+          "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 2 0 0"],
+          "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill 1 0 0"]
   		},
-      "timetoanswer": 40
+      "timetoanswer": 35
     },
     {
       "question": "Who is the (lead) designer of Valguero?",
       "answer": ["Nekatus"],
       "options": ["Aaron Longstaff","Studio Wildcard","Nekatus","Ben Burkart"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 20"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 0"]
-      },
-      "timetoanswer": 20
+          "1": ["/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin100.PrimalItemConsumable_TokenCoin100 2 0 0","/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin50.PrimalItemConsumable_TokenCoin50 1 0 0"],
+          "2": ["/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin100.PrimalItemConsumable_TokenCoin100 1 0 0"],
+          "3": ["/ArasArk/TokenCoin/TokenStacks/PrimalItemConsumable_TokenCoin50.PrimalItemConsumable_TokenCoin50 1 0 0"]
+  		},
+      "timetoanswer": 25
     },
     {
       "question": "The following Wyverns can be found in Valguero's Wyvern Trench:",
       "answer": ["Ice and Fire Wyvern"],
       "options": ["There is no Wyvern trench on Valgueo","Ice Wyverns","Ice and Fire Wyvern","All 4 Wyvern Types"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 20"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk 30 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk 10 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk 10 0 0"]
   		},
-      "timetoanswer": 30
+      "timetoanswer": 25
     },
     {
       "question": "The newly added Elderclaw creature can be ridden without a saddle",
       "answer": ["True"],
       "options": ["True","False"],
       "rewards": {
-          "1": [" 1 0 0"],
-          "2": [" 1 0 0"],
-          "3": [" 1 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic 500 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic 300 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer_Organic.PrimalItemResource_Polymer_Organic 150 0 0"]
   		},
-      "timetoanswer": 20
+      "timetoanswer": 15
     },
     {
       "question": "Where, roughly, are the Red Woods on Valguero?",
       "answer": ["West"],
       "options": ["North","East","South","West"],
       "rewards": {
-          "1": [" 1 0 0"],
-          "2": [" 1 0 0"],
-          "3": [" 1 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart 100 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart 100 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq 100 0 0"]
   		},
       "timetoanswer": 20
     },
@@ -74,44 +74,44 @@
       "answer": ["True"],
       "options": ["True","False"],
       "rewards": {
-          "1": [" 1 0 0"],
-          "2": [" 1 0 0"],
-          "3": [" 1 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics 250 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics 150 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics 100 0 0"]
   		},
-      "timetoanswer": 20
+      "timetoanswer": 15
     },
     {
-      "question": "Chalk Golems on Valguero EVOLVED were tameable.",
+      "question": "Chalk Golems are tameable.",
       "answer": ["True"],
       "options": ["True","False"],
       "rewards": {
-          "1": [" 1 0 0"],
-          "2": [" 1 0 0"],
-          "3": [" 1 0 0"]
+          "1": ["/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle 1 6 0"],
+          "2": ["/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle 1 3 0"],
+          "3": ["/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle 1 1 0"]
   		},
-      "timetoanswer": 20
+      "timetoanswer": 15
     },
     {
-      "question": "Which creature did not spawn on Valguero EVOLVED?",
+      "question": "Which creature did NOT spawn on Valguero EVOLVED?",
       "answer": ["Pelagornis"],
       "options": ["Pelagornis","Polar Bear","Roll Rat","Chalk Golem"],
       "rewards": {
-          "1": [" 1 0 0"],
-          "2": [" 1 0 0"],
-          "3": [" 1 0 0"]
+          "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 3 0 0"],
+          "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"],
+          "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 1 0 0"]
   		},
       "timetoanswer": 30
     },
     {
       "question": "For our long-time Aras players: Aras ASE had a community farm on Valguero. What was it's purpose?",
       "answer": ["Metal Farm","Oil Farm"],
-      "options": ["Crops Farm","Cementing and Organic Polymer Farm","Metal Farm","Oil Farm"],
+      "options": ["Crops Farm","Crystal Farm","Metal Farm","Oil Farm"],
       "rewards": {
-          "1": [" 1 0 0"],
-          "2": [" 1 0 0"],
-          "3": [" 1 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil 500 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal 400 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot 300 0 0"]
   		},
-      "timetoanswer": 20
+      "timetoanswer": 30
     }
   ]
 }
