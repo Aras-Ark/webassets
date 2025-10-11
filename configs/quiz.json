@@ -1,0 +1,117 @@
+{
+  "trivia": "So you think you can Ark?",
+  "timetostart": 60,
+  "questions": [
+    {
+      "question": "Valguero had one world boss. Which one?",
+      "answer": ["Broodmother"],
+      "options": ["Broodmother","Megapithecus","Manticore","Dragon"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DunkleosteusSaddle.PrimalItemArmor_DunkleosteusSaddle 1 1 0"]
+      },
+      "timetoanswer": 30
+    },
+    {
+      "question": "When did Wild Card first release Valguero as an official DLC?",
+      "answer": ["June 2019"],
+      "options": [
+        "June 2019","July 2019","June 2020","July 2020"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle 1 1 0"]
+  		},
+      "timetoanswer": 40
+    },
+    {
+      "question": "Who is the (lead) designer of Valguero?",
+      "answer": ["Nekatus"],
+      "options": ["Aaron Longstaff","Studio Wildcard","Nekatus","Ben Burkart"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DolphinSaddle.PrimalItemArmor_DolphinSaddle 1 1 0"]
+      },
+      "timetoanswer": 20
+    },
+    {
+      "question": "The following Wyverns can be found in Valguero's Wyvern Trench:",
+      "answer": ["Ice and Fire Wyvern"],
+      "options": ["There is no Wyvern trench on Valgueo","Ice Wyverns","Ice and Fire Wyvern","All 4 Wyvern Types"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 20"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek 1 1 0"]
+  		},
+      "timetoanswer": 30
+    },
+    {
+      "question": "The newly added Elderclaw creature can be ridden without a saddle",
+      "answer": ["True"],
+      "options": ["True","False"],
+      "rewards": {
+          "1": [" 1 0 0"],
+          "2": [" 1 0 0"],
+          "3": [" 1 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "Where, roughly, are the Red Woods on Valguero?",
+      "answer": ["West"],
+      "options": ["North","East","South","West"],
+      "rewards": {
+          "1": [" 1 0 0"],
+          "2": [" 1 0 0"],
+          "3": [" 1 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "Valguero is a non-cannonical map.",
+      "answer": ["True"],
+      "options": ["True","False"],
+      "rewards": {
+          "1": [" 1 0 0"],
+          "2": [" 1 0 0"],
+          "3": [" 1 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "Chalk Golems on Valguero EVOLVED were tameable.",
+      "answer": ["True"],
+      "options": ["True","False"],
+      "rewards": {
+          "1": [" 1 0 0"],
+          "2": [" 1 0 0"],
+          "3": [" 1 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "Which creature did not spawn on Valguero EVOLVED?",
+      "answer": ["Pelagornis"],
+      "options": ["Pelagornis","Polar Bear","Roll Rat","Chalk Golem"],
+      "rewards": {
+          "1": [" 1 0 0"],
+          "2": [" 1 0 0"],
+          "3": [" 1 0 0"]
+  		},
+      "timetoanswer": 30
+    },
+    {
+      "question": "For our long-time Aras players: Aras ASE had a community farm on Valguero. What was it's purpose?",
+      "answer": ["Metal Farm","Oil Farm"],
+      "options": ["Crops Farm","Cementing and Organic Polymer Farm","Metal Farm","Oil Farm"],
+      "rewards": {
+          "1": [" 1 0 0"],
+          "2": [" 1 0 0"],
+          "3": [" 1 0 0"]
+  		},
+      "timetoanswer": 20
+    }
+  ]
+}
