@@ -3,115 +3,114 @@
   "timetostart": 60,
   "questions": [
     {
-      "question": "Valguero had one world boss. Which one?",
-      "answer": ["Broodmother"],
-      "options": ["Broodmother","Megapithecus","Manticore","Dragon"],
-      "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet 200 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 100 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 100 0 0"]
-      },
-      "timetoanswer": 25
-    },
-    {
-      "question": "When did Wild Card first release Valguero as an official DLC?",
-      "answer": ["June 2019"],
-      "options": [
-        "June 2019","July 2019","June 2020","July 2020"],
-      "rewards": {
-          "1": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 3 0 0"],
-          "2": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 2 0 0"],
-          "3": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 1 0 0"]
-  		},
-      "timetoanswer": 35
-    },
-    {
-      "question": "Who is the (lead) designer of Valguero?",
-      "answer": ["Nekatus"],
-      "options": ["Aaron Longstaff","Studio Wildcard","Nekatus","Ben Burkart"],
-      "rewards": {
-          "1": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 300 0 0"],
-          "2": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 150 0 0"],
-          "3": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 100 0 0"]
-  		},
-      "timetoanswer": 25
-    },
-    {
-      "question": "The following Wyverns can be found in Valguero's Wyvern Trench:",
-      "answer": ["Ice and Fire Wyvern"],
-      "options": ["There is no Wyvern trench on Valgueo","Ice Wyverns","Ice and Fire Wyvern","All 4 Wyvern Types"],
-      "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk 30 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk 10 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk 10 0 0"]
-  		},
-      "timetoanswer": 25
-    },
-    {
-      "question": "The newly added Elderclaw creature can be ridden without a saddle",
-      "answer": ["True"],
-      "options": ["True","False"],
-      "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon 500 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon 300 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon 200 0 0"]
-  		},
-      "timetoanswer": 15
-    },
-    {
-      "question": "Where, roughly, are the Red Woods on Valguero?",
-      "answer": ["West"],
-      "options": ["North","East","South","West"],
+      "question": "What is the max level (wild) of a tek creature on official servers?",
+      "answer": ["180"],
+      "options": ["150","165","180","190"],
       "rewards": {
           "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart 100 0 0"],
           "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart 100 0 0"],
           "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq 100 0 0"]
   		},
+      "timetoanswer": 15
+    },
+    {
+      "question": "What is the highest tier supply drop on official DLC's?",
+      "answer": ["Red"],
+      "options": ["Yellow","Red","Blue","Purple"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 200 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 150 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleRifleBullet.PrimalItemAmmo_SimpleRifleBullet 100 0 0"]
+  		},
+      "timetoanswer": 15
+    },
+    {
+      "question": "What is the largest sauropod in Ark?",
+      "answer": ["Titanosaurus"],
+      "options": ["Brontosaurus","Giganotosaurus","Titanosaurus","Diplodocus","Titanosaurus"],
+      "rewards": {
+          "1": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 300 0 0"],
+          "2": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 150 0 0"],
+          "3": ["/ArasArk/TokenCoin/PrimalItemConsumable_TokenCoin.PrimalItemConsumable_TokenCoin 100 0 0"]
+  		},
+      "timetoanswer": 15
+    },
+    {
+      "question": "What creature in ASA gives oxygen without the use of a saddle?",
+      "answer": ["Diplocaulus"],
+      "options": ["Diplocaulus","Archelon","Megachelon","Dunkleosteus"],
+      "rewards": {
+        "1": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 3 0 0"],
+        "2": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 2 0 0"],
+        "3": ["Blueprint'/ArasArk/DinoConsumables/PrimalItemConsumable_StarvePill.PrimalItemConsumable_StarvePill' 1 0 0"]
+  		},
       "timetoanswer": 20
     },
     {
-      "question": "Valguero is a non-cannonical map.",
-      "answer": ["True"],
-      "options": ["True","False"],
+      "question": "What (besides you and your tame) does a direbear eat?",
+      "answer": ["Meat","Honey","Berries"],
+      "options": ["Meat","Honey","Berries"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics 250 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics 150 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics 100 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 20 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 10 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 5 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "What kibble is used to tame a Thylacoleo in ASA?",
+      "answer": ["Extraordinary kibble"],
+      "options": ["Superior kibble","Basic kibble","Exceptional kibble","Extraordinary kibble"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special.PrimalItemConsumable_Kibble_Base_Special 50 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special.PrimalItemConsumable_Kibble_Base_Special 40 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Kibble_Base_Special.PrimalItemConsumable_Kibble_Base_Special 30 0 0"]
   		},
       "timetoanswer": 15
     },
     {
-      "question": "Chalk Golems are tameable.",
+      "question": "What is the biggest underwater creature in ASA that is not a boss?",
+      "answer": ["Shastasaurus"],
+      "options": ["Tusoteutis","Mosasaurus","Dunkleosteus","Shastasaurus"],
+      "rewards": {
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer 250 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer 150 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer 100 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "A Tusoteutis is bigger than a Mosasaur.",
       "answer": ["True"],
       "options": ["True","False"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CannonBall.PrimalItemAmmo_CannonBall 15 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CannonBall.PrimalItemAmmo_CannonBall 10 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_CannonBall.PrimalItemAmmo_CannonBall 5 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl 250 0 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl 150 0 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl 100 0 0"]
   		},
       "timetoanswer": 15
     },
     {
-      "question": "Which creature did NOT spawn on Valguero EVOLVED?",
-      "answer": ["Pelagornis"],
-      "options": ["Pelagornis","Polar Bear","Roll Rat","Chalk Golem"],
+      "question": "What is the max level (wild) of a Wyvern on official servers?",
+      "answer": ["190"],
+      "options": ["150","165","180","190"],
+      "rewards": {
+          "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 3 0 0"],
+          "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 2 0 0"],
+          "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_GrowthPill.PrimalItemConsumable_GrowthPill 1 0 0"]
+  		},
+      "timetoanswer": 20
+    },
+    {
+      "question": "What raw resources do you need to make an electrical generator?",
+      "answer": ["70 Metal, 30 Silica Pearls"],
+      "options": ["35 Metal, 25 Silica Pearls","70 Metal, 30 Silica Pearls","65 Metal, 35 Silica Pearls","70 Metal, 40 Silica Pearls"],
       "rewards": {
           "1": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 3 0 0"],
           "2": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 2 0 0"],
           "3": ["/ArasArk/DinoConsumables/PrimalItemConsumable_ImprintPill.PrimalItemConsumable_ImprintPill 1 0 0"]
   		},
-      "timetoanswer": 30
-    },
-    {
-      "question": "For our long-time Aras players: Aras ASE had a community farm on Valguero. What was it's purpose?",
-      "answer": ["Metal Farm","Oil Farm"],
-      "options": ["Crops Farm","Crystal Farm","Metal Farm","Oil Farm"],
-      "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil 500 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal 400 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_MetalIngot.PrimalItemResource_MetalIngot 300 0 0"]
-  		},
-      "timetoanswer": 30
+      "timetoanswer": 25
     }
   ]
 }
