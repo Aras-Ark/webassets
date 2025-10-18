@@ -49,7 +49,7 @@
     {
       "question": "What (besides you and your tame) does a direbear eat?",
       "answer": ["Meat","Honey","Berries"],
-      "options": ["Meat","Honey","Berries"],
+      "options": ["Meat","Honey","Berries","Sap"],
       "rewards": {
           "1": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 20 0 0"],
           "2": ["/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SweetVeggieCake.PrimalItemConsumable_SweetVeggieCake 10 0 0"],
