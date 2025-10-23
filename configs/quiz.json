@@ -7,9 +7,9 @@
       "answer": ["180"],
       "options": ["150","165","180","190"],
       "rewards": {
-          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_RefinedTranqDart.PrimalItemAmmo_RefinedTranqDart 100 0 0"],
-          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_TranqDart.PrimalItemAmmo_TranqDart 100 0 0"],
-          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_ArrowTranq.PrimalItemAmmo_ArrowTranq 100 0 0"]
+          "1": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun 1 20 0"],
+          "2": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun 1 4 0"],
+          "3": ["/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun 1 0 0"]
   		},
       "timetoanswer": 15
     },
