@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": true,
 			"hideiconafter": 90,
-			"iconurl": "https://aras-ark.github.io/webassets/images/wbui2/corner_logo_00.png",
+			"iconurl": "https://aras-ark.github.io/webassets/images/wbui2/corner_logo_07.png",
 			"disableicontext": true,
 			"iconposition": 3,
 			"icontextcolor": 8,
@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "About Aras",
-				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/welcome_06.png",
+				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/welcome_07.png",
 				"content": [
 					{
 						"title": "",
