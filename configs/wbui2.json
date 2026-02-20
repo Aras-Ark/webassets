@@ -59,6 +59,17 @@
 						"text": ""
 					}
 				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Tokens",
+				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/tokens.png",
+				"content": [
+					{
+						"title": "Tokens",
+						"text": ""
+					}
+				]
 			}
 		],
 		"links": [
