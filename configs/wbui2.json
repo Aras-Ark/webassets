@@ -17,7 +17,7 @@
 		"tabs": [
 			{
 				"layout": 1,
-				"buttontext": "About Aras",
+				"buttontext": "Welcome to Aras",
 				"imageurl": "https://aras-ark.github.io/webassets/images/wbui2/welcome.png",
 				"content": [
 					{
